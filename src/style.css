@@ -1,0 +1,44 @@
+h1 {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+button {
+  margin: 20px;
+}
+
+.wrapper {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.image {
+  max-width: 1000px;
+}
+
+.bigger {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 10px;
+}
+
+.wordSpotlight {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.guesses-display {
+  margin: 20px;
+}
+
+.letters {
+  background-color: rgb(238, 238, 238);
+  border: solid 1px rgb(175, 175, 175);
+  border-radius: 50%;
+  font-size: 16px;
+  font-weight: bold;
+  height: 40px;
+  width: 40px;
+}
