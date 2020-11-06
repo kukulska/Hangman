@@ -18,7 +18,7 @@ let cities = [
 ];
 
 let answer = "";
-let maxWrong = 6;
+let maxWrong = 8;
 let mistakes = 0;
 let guessed = [];
 let wordStatus = null;
