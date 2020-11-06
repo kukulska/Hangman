@@ -42,3 +42,10 @@ button {
   height: 40px;
   width: 40px;
 }
+
+.coder {
+  font-size: 15px;
+  text-align: left;
+  position: relative;
+  left: 60px;
+}
