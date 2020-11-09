@@ -41,7 +41,7 @@ function generateLetters(letter) {
   return `<button
     class="letters"
     id="${letter}"
-    onClick=handleGuess("${letter}")>${letter}</button>`;
+    onClick=javascript:handleGuess("${letter}")>${letter}</button>`;
 }
 
 function handleGuess(chosenLetter) {
