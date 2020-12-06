@@ -15,6 +15,7 @@ button {
 
 .image {
   max-width: 1000px;
+  width: 100%;
 }
 
 .bigger {
@@ -48,4 +49,20 @@ button {
   text-align: left;
   position: relative;
   left: 60px;
+}
+
+@media (max-width: 425px) {
+  h1 {
+    font-size: 30px;
+  }
+  .bigger {
+    font-size: 18px;
+  }
+  .letters {
+    font-size: 14px;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+    margin: 14px;
+  }
 }
